@@ -1,0 +1,10 @@
+Descrição da Sprint #1: Desenvolvimento do layout.
+
+...
+
+1) O que funcionou bem?
+	- Desenvolvimento do design e do planejamento de todo o projeto (Planilha + Quadro Kanban).
+
+2) O que pode melhorar na próxima Sprint?
+	- Execução e realização; 
+	- Divisão de tarefas.
